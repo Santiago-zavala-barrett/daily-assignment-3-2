@@ -1,0 +1,28 @@
+.container {
+  border: 3px solid blue;
+  width: 50%;
+  top: 200px;
+  left: 200px;
+  position: fixed;
+}
+
+.header {
+  text-align: center;
+}
+
+.snake {
+  width: 25%;
+  display: block;
+  margin: auto;
+
+}
+
+.lizard {
+  width: 25%;
+  float: left;
+  padding: 3px;
+}
+
+.message {
+
+}
